@@ -4,7 +4,6 @@ This file contains all variables declare and will be imported to main file '''
 
 # Initially defining variables to 0, will be further appended.
 
-test= " This is test sentence to check if it is working "
 
 
 E = 0  # Equity
@@ -26,7 +25,7 @@ pp4 = 0     # Profit price 4
 
 pstn = 0    # Position
 
-N = input("Enter the Entry Amount")       # Entry Amount
+N = 0      # Entry Amount
 
 # Win/loss Ration = wlr%
 wlr30 = 0.3
