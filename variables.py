@@ -7,7 +7,7 @@ This file contains all variables declare and will be imported to main file '''
 test= " This is test sentence to check if it is working "
 
 
-E = 100001  # Equity
+E = 100000  # Equity
 # Capitals
 ini_cap = 100000     # Initial Capital
 curr_cap = 100000    # Current Capital
