@@ -24,6 +24,10 @@ pp2 = 36.50     # Profit price 2
 pp3 = 37.50     # Profit price 3
 pp4 = 40.50     # Profit price 4
 
+# Brokerage per transaction
+brokstk = 10.00      # Brokerage for stock trades
+brokopt = 10.00      # Brokerage for option trades
+
 pstn = 0    # Position
 
 N = input("Enter N the Entry Amount")       # Entry Amount
