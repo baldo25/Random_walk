@@ -4,8 +4,8 @@ This file contains all variables declare and will be imported to main file '''
 
 # Initially defining variables to 0, will be further appended.
 
-test= " This is test sentence to check if it is working "
 
+p = 0
 
 E = 100000  # Equity
 # Capitals
@@ -24,13 +24,9 @@ pp2 = 36.50     # Profit price 2
 pp3 = 37.50     # Profit price 3
 pp4 = 40.50     # Profit price 4
 
-# Brokerage per transaction
-brokstk = 10.00      # Brokerage for stock trades
-brokopt = 10.00      # Brokerage for option trades
+position = 0    # Position
 
-pstn = 0    # Position
-
-N = input("Enter N the Entry Amount")       # Entry Amount
+N = 0       # Entry Amount
 
 # Win/loss Ration = wlr%
 wlr30 = 0.3

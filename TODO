@@ -1,0 +1,14 @@
+Have to connect dataset to loop
+
+Loop to be connected with if conditions
+
+have to set position variable
+
+Structure:
+    start loop
+            dataset start[i]:
+                    comapare position:
+                            go through if conditions
+                                          find result
+                                            next loop
+
