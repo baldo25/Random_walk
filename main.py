@@ -62,7 +62,7 @@ while i < var.l:
 # If conditions          #correct defination of var.p should be appended in the following conditions
 if var.p == var.pp1:
     print('sell a%')
-    var.p = var.p + var.p * var.a
+    var.p = var.p + var.p * var.a  # This is incorrect BD to correct.
     print(var.p)
 elif var.p == var.pp2:
     print('sell b%')
